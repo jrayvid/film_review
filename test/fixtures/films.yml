@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyText
+  movie_duration: MyString
+  rating: MyString
+
+two:
+  title: MyText
+  movie_duration: MyString
+  rating: MyString
